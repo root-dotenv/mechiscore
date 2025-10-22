@@ -52,8 +52,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🧠 Philosophy & Vision
 
-> _"Free will – the capacity for intentional, conscious choice and the experience of initiating actions based on our desires and reasoning._ > _Novelty and Creativity: Despite constraints, we exhibit the capacity for innovation and to generate outcomes not entirely dictated by past events or external influences._ > _Conscious Choice and Deliberation: This is where we actively choose among perceived alternatives, reflecting our desires and intentions._ > _Self-Reflection and Self-Direction: Our capacity to examine our own thoughts, values, and motivations allows for self-correction and intentional shaping of our character and future actions._ > _We are not simply pawns of fate, but active participants shaping our course, even if the "landscape" of our existence is in some ways predetermined._ > _In essence, we are determined to the extent that our foundation dictates the possibilities, yet we are free to choose the path we take within those possibilities, influencing the construction of our own unique pyramid of experiences and actions."_
+_Free will – the capacity for intentional, conscious choice and the experience of initiating actions based on our desires and reasoning._
 
----
+_Novelty and Creativity: Despite constraints, we exhibit the capacity for innovation and to generate outcomes not entirely dictated by past events or external influences._
+
+_Conscious Choice and Deliberation: This is where we actively choose among perceived alternatives, reflecting our desires and intentions._
+
+_Self-Reflection and Self-Direction: Our capacity to examine our own thoughts, values, and motivations allows for self-correction and intentional shaping of our character and future actions._
+
+_We are not simply pawns of fate, but active participants shaping our course, even if the "landscape" of our existence is in some ways predetermined._
+
+_In essence, we are determined to the extent that our foundation dictates the possibilities, yet we are free to choose the path we take within those possibilities, influencing the construction of our own unique pyramid of experiences and actions._
 
 **Mechiscore** - Bringing the world of sports to Africa and beyond! ⚽🌍
