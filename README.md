@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# MECHISCORE ⚽
 
-## Getting Started
+A modern sports and entertainment web application delivering real-time scores, trending news, and multi-format content focused on African sports with global coverage.
 
-First, run the development server:
+## 🌍 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Mechiscore is a comprehensive sports and entertainment platform inspired by 433, ESPN FC, LiveScore, Goal.com, OneFootball, and Pubity, with a primary focus on:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **African Sports** - Deep coverage of Tanzanian and continental African sports
+- **Global Trends** - European, American, and international sports news
+- **Multi-Format Content** - Blogs, videos, live scores, and social engagement
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Core Functionality
 
-## Learn More
+- 📱 Real-time live scores and match updates
+- 📰 News articles and blog posts
+- 🎥 Video content and highlights
+- 🔔 Push notifications and alerts
+- 🌍 Multi-language support
+- 📊 Advanced statistics and analytics
 
-To learn more about Next.js, take a look at the following resources:
+### Regional Focus
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🇹🇿 Tanzania Premier League coverage
+- 🌍 African football leagues and tournaments
+- ⭐ European top leagues (EPL, La Liga, Serie A, etc.)
+- 🏈 American sports (NBA, NFL, MLB)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🤝 Contributing
 
-## Deploy on Vercel
+We welcome contributions! Please see our Contributing Guide for details.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📄 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📞 Contact
+
+- **Project Maintainer**: Elis Kaholwe
+- **Email**: [rootdotenv@gmail.com](mailto:rootdotenv@gmail.com)
+- **Phone**: +255-689-759-215
+- **Instagram**: @elisdotenv
+- **Location**: Dar es Salaam, Tanzania
+
+## 🙏 Acknowledgments
+
+- Inspired by 433, ESPN FC, LiveScore, Goal.com, OneFootball, and Pubity
+- African sports community
+- Open source contributors
+
+---
+
+**Mechiscore** - Bringing the world of sports to Africa and beyond! ⚽🌍
